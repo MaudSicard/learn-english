@@ -2,7 +2,7 @@
 layout: post
 title: "Poser des questions en anglais"
 date: 2025-10-27
-category: grammaire
+categories: grammaire
 ---
 
 En anglais, poser une question implique souvent une **inversion** ou l’utilisation d’un auxiliaire.
