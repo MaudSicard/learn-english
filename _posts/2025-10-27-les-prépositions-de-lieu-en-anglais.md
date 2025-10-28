@@ -2,7 +2,7 @@
 layout: post
 title: "Les prépositions de lieu en anglais"
 date: 2025-10-27
-category: grammaire
+categories: grammaire
 ---
 
 Les prépositions de lieu permettent de décrire **où se trouve une personne ou un objet** dans l’espace. Elles sont essentielles pour donner des directions ou situer quelque chose.

@@ -1,6 +1,6 @@
 title: "Learn english"
-baseurl: "https://maudsicard.github.io/"
-url: "learn-english"
+baseurl: "/learn-english"
+url: "https://maudsicard.github.io"
 collections:
   posts:
     output: true

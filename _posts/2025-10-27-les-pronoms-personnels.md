@@ -2,7 +2,7 @@
 layout: post
 title: "Les pronoms personnels"
 date: 2025-10-27
-category: grammaire
+categories: grammaire
 ---
 
 Les pronoms personnels remplacent les noms pour **éviter les répétitions**. Il existe deux types : **sujet** et **objet**.

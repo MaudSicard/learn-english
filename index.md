@@ -17,6 +17,6 @@ Explorez les articles, progressez à votre rythme, et devenez plus à l’aise e
 
 ## 📚 Accès rapide
 
-- [Grammaire](grammaire.md)
-- [Conjugaison](conjugaison.md)
-- [Vocabulaire](vocabulaire.md)
+- [Grammaire](grammaire.html)
+- [Conjugaison](conjugaison.html)
+- [Vocabulaire](vocabulaire.html)
