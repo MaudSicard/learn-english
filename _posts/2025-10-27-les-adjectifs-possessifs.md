@@ -2,8 +2,9 @@
 layout: post
 title: "Les adjectifs possessifs"
 date: 2025-10-27
-categories: grammaire
+category: grammaire
 ---
+# Les adjectifs possessifs
 
 Les adjectifs possessifs indiquent **à qui appartient quelque chose**. Ils sont placés **avant le nom** qu’ils qualifient.
 

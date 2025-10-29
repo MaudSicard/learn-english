@@ -2,8 +2,9 @@
 layout: post
 title: "Les articles en anglais"
 date: 2025-10-24
-categories: grammaire
+category: grammaire
 ---
+# Les articles en anglais
 
 Les articles en anglais permettent de préciser si l'on parle d'un élément connu ou inconnu. Il en existe trois : **a**, **an**, et **the**. Il existe aussi des cas où **aucun article** n'est utilisé, appelé *article zéro*.
 

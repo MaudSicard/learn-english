@@ -5,6 +5,8 @@ title: "Conjugaison"
 
 ## Articles sur la conjugaison
 
-{% for post in site.categories.conjugaison %}
-  - [{{ post.title }}]({{ post.url }})
-{% endfor %}
+<ul>
+  {% for post in site.categories.conjugaison %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
